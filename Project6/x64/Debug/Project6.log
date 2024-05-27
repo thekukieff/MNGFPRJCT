@@ -1,0 +1,8 @@
+﻿  First.cpp
+  func.cpp
+  main.cpp
+  Second.cpp
+  Third.cpp
+F:\Игорь\C++\Project6\Second.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Project6.vcxproj -> F:\Игорь\C++\Project6\x64\Debug\Project6.exe
